@@ -50,6 +50,14 @@ model-risk-validation/
 | KS Statistic | 0.3220 |
 | PSI | 0.0000 |
 
+## Key Findings
+
+- ✅ Model approved for deployment
+- ✅ No significant overfitting observed
+- ✅ Validation AUC exceeds minimum acceptable threshold
+- ✅ KS Statistic indicates good discriminatory power
+- ✅ PSI indicates no population drift
+
 ## Deployment
 
 The dashboard is deployed using Streamlit Cloud.
